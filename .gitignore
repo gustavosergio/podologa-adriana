@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.netlify/
+.env
+.env.*
+node_modules/
+
+# Referências antigas substituídas e arquivos fora da versão atual.
+assets/adriana-atendimento.png
+assets/atendimento-pes.webp
+assets/cuidado-podologico.webp
+assets/espaco-atendimento.webp
+assets/favicon.svg
+assets/photo-sources.json
